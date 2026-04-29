@@ -1,0 +1,8 @@
+{
+  "name": "Wireframe_Reverse_Engineering: Fixify",
+  "description": "AI-first, problem-first home maintenance app. Upload a photo, AI analyzes the issue, and you book a fix in seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
